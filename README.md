@@ -2,7 +2,7 @@
 The first homework of Deep Learning course at Sharif University of Technology
 
 
-Q1 notebook is dimenssion deruction with PCA and test with MNIST dataset.
+Q1 notebook is dimenssion reduction with PCA and test with MNIST dataset.
 
 
 Q2 notebook is implementation of decision_tree algorithm and test on MNIST dataset.
